@@ -1,4 +1,4 @@
-![logo](https://github.com/Prashid2002/Prashid-Shanker/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner%20(1).png )
+![logo](https://github.com/Prashid2002/Prashid2002/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Prashid Shanker</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
