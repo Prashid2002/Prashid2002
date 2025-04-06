@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashid2002&label=Profile%20views&color=0e75b6&style=flat" alt="prashid2002" /> </p>
 
-- 🌱 I’m currently learning **Android Development, Jetpack Compose, Kotlin**
+- 🌱 I’m currently learning **Android Development, Machine Learning**
 
 - 📫 How to reach me **prashidshanker0000@gmail.com**
 
